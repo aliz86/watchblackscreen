@@ -47,7 +47,7 @@ struct TurnOffScreenApp: App {
         content.categoryIdentifier = "TURN_OFF_SCREEN"
         
         // The trigger is set for 1 second from now.
-        let trigger = UNTimeIntervalNotificationTrigger(timeInterval: 1, repeats: false)
+        let trigger = UNTimeIntervalNotificationTrigger(timeInterval: 0.1, repeats: false)
         let request = UNNotificationRequest(identifier: "turnOffScreenNotification",
                                             content: content,
                                             trigger: trigger)
