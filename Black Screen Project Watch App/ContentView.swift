@@ -69,7 +69,7 @@ struct ContentView: View {
     func updateTimeAndDate() {
         let now = Date()
         let timeFormatter = DateFormatter()
-        timeFormatter.dateFormat = "HH:mm:ss"
+        timeFormatter.dateFormat = "HH:mm"
         currentTime = timeFormatter.string(from: now)
         
         let dateFormatter = DateFormatter()
