@@ -1,4 +1,4 @@
-WatchOS App to darken the scren, showing time, acting as a screensaver, after one seconf touch, a bigger clock/date will be shown and upon minimizimg the app, notofication will be shown. Not persistent.
+WatchOS App to darken the screen, showing time, acting as a screensaver, after one seconf touch, a bigger clock/date will be shown and upon minimizimg the app, notofication will be shown. Not persistent.
 
 
 ![](https://i.postimg.cc/QVZrcPwt/4-F44-A540-6-E1-E-462-E-AB93-C2-FD5059-F33-D-4-5005-c.jpg)
